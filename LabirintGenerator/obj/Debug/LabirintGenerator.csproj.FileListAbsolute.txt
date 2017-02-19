@@ -1,0 +1,9 @@
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\bin\Debug\LabirintGenerator.exe.config
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\bin\Debug\LabirintGenerator.exe
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\bin\Debug\LabirintGenerator.pdb
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\obj\Debug\LabirintGenerator.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\obj\Debug\LabirintGenerator.Form1.resources
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\obj\Debug\LabirintGenerator.Properties.Resources.resources
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\obj\Debug\LabirintGenerator.csproj.GenerateResource.Cache
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\obj\Debug\LabirintGenerator.exe
+c:\users\олег\documents\visual studio 2017\Projects\LabirintGenerator\LabirintGenerator\obj\Debug\LabirintGenerator.pdb
